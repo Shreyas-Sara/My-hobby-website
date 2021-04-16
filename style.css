@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+#hobby{
+    height: 500px;
+    background: linear-gradient( #FF9933 0%, #138808 100% );
+    
+}
+#army{
+ background: linear-gradient(#A4AA88 0%, #5B7742 100%);    
+ padding: 50px;    
+}
+#air_force{
+    background: linear-gradient(white 0%, #bfc7c7 100%);
+        padding:50px
+}
+#navy{
+    background: linear-gradient(aqua 0%, #09baba 100% ); 
+    padding: 50px;
+}
+#armed_forces{
+    height: 350px;
+    margin-top: 25px;
+}
+#armary{
+    height: 350px;
+}
+#iaf{
+  height: 350px;  
+}
+#ins{
+    height: 350px;
+    width: 500px;
+}
+.exercise{
+    list-style: none;
+    font-family: 'Orelega One', cursive;
+    background: linear-gradient(white 0%, #bfc7c7 100%);
+}
